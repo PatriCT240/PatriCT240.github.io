@@ -5,7 +5,8 @@
 
 </div>
 
-### Portfolio of Clinical Data Science Projects
+--- 
+## 📁 Portfolio of Clinical Data Science Projects
 
 ---
 

@@ -74,6 +74,27 @@ More clinical data science projects will be added shortly.
 
 ---
 
+## 🧩 Skills
+
+- Clinical data preprocessing (missingness, outliers, encoding)  
+- Statistical analysis (R, Python, SPSS)  
+- Machine learning for risk prediction  
+- Feature engineering guided by clinical knowledge  
+- Model evaluation and interpretability  
+- Reproducible pipelines (pandas, PySpark, sklearn)  
+- Scientific communication and reporting  
+
+---
+
+## 💼 Experience
+
+**Clinical Data Analyst**  
+- Analysis of structured clinical datasets  
+- Development of reproducible analytical workflows  
+- Risk prediction modeling in healthcare contexts 
+- Preparation of technical and scientific reports  
+
+---
 ## 📬 Contact  
 - GitHub: https://github.com/PatriCT240  
 - [LinkedIn](https://www.linkedin.com/in/patricia-c-torrell/)

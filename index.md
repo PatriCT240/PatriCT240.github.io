@@ -26,6 +26,7 @@ Machine learning model for early risk stratification of kidney stone disease.
 
 ### 🧠 Migraine Prediction
 Predictive modeling for migraine onset using clinical and lifestyle variables.
+
 👉 [View project](https://patrict240.github.io/antimicrobial-resistance-spain/)  
 👉 [GitHub repository](https://github.com/PatriCT240/antimicrobial-resistance-spain)
 

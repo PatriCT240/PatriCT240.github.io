@@ -1,4 +1,36 @@
-# 👩‍⚕️ Patricia C. Torrell — Clinical Data Analyst & Machine Learning Practitioner  
+<style>
+h1, h2, h3 {
+  font-family: Arial, sans-serif;
+  color: #1a3c6e; /* blau clínic */
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.project-card {
+  border: 1px solid #d9e2ec;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+  background: #f7f9fc;
+}
+
+.banner {
+  background: #e8f0fe;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+</style>
+
+<div class="banner">
+  <h1>Patricia C. Torrell — Clinical Data Analyst</h1>
+  <p>Machine Learning · Clinical Research · Reproducible Science</p>
+</div>
+
 ### Portfolio of Clinical Data Science Projects
 
 ---
@@ -17,22 +49,28 @@ My work focuses on building **clinically meaningful, transparent and reproducibl
 
 ## 📁 Featured Projects
 
-### 🧪 Renal Lithiasis Risk Prediction  
-Machine learning model for early risk stratification of kidney stone disease.  
-👉 [View project](https://patrict240.github.io/renal_litiasis_risk/)  
-👉 [GitHub repository](https://github.com/PatriCT240/renal_litiasis_risk)
+<div class="project-card">
+  <h3>🧬 Renal Lithiasis Risk Prediction</h3>
+  <p>Machine learning model for early risk stratification of kidney stone disease.</p>
+  <p>
+    👉 <a href="https://patrict240.github.io/renal_litiasis_risk/">View project website</a><br>
+    👉 <a href="https://github.com/PatriCT240/renal_litiasis_risk">GitHub repository</a>
+  </p>
+</div>
 
----
-
-### 🧠 Migraine Prediction
-Predictive modeling for migraine onset using clinical and lifestyle variables.  
-👉 [View project](https://patrict240.github.io/antimicrobial-resistance-spain/)  
-👉 [GitHub repository](https://github.com/PatriCT240/antimicrobial-resistance-spain)
+<div class="project-card">
+  <h3>🧠 Migraine Prediction</h3>
+  <p>Predictive modeling for migraine onset using clinical and lifestyle variables.</p>
+  <p>
+    👉 <a href="https://patrict240.github.io/antimicrobial-resistance-spain/">View project website</a><br>
+    👉 <a href="https://github.com/PatriCT240/antimicrobial-resistance-spain">GitHub repository</a>
+  </p>
+</div>
 
 ---
 
 ### 📊 Additional Projects  
-More clinical data science projects will be added here as the portfolio grows.
+More clinical data science projects will be added shortly.
 
 ---
 

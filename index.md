@@ -1,12 +1,14 @@
-<div style="background-color:#e8f0fe; padding:20px; border-radius:10px; text-align:center;">
+<div align="center">
 
-# Patricia C. Torrell — Clinical Data Analyst  
-### Machine Learning · Clinical Research · Reproducible Science
+# 🧬 Patricia C. Torrell  
+### Clinical Data Analyst  
+**Machine Learning · Clinical Research · Reproducible Science**
 
 </div>
 
---- 
-## 📁 Portfolio of Clinical Data Science Projects
+---
+
+# 📁 Portfolio of Clinical Data Science Projects
 
 ---
 

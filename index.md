@@ -39,7 +39,7 @@ Machine learning model for early risk stratification of kidney stone disease.
 
 ### 🧠 Antimicrobial Resistance in Spain
 Predictive modeling for migraine onset using clinical and lifestyle variables.  
-👉 <a href="[https://patrict240.github.io/antimicrobial-resistance-spain/">View project website</a><br>
+👉 <a href="https://patrict240.github.io/antimicrobial-resistance-spain/">View project website</a><br>
 👉 <a href="https://github.com/PatriCT240/antimicrobial-resistance-spain">GitHub repository</a>
 
 </div>

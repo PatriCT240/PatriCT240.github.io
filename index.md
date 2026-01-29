@@ -39,7 +39,7 @@ Machine learning model for early risk stratification of kidney stone disease.
 
 ### 🧠 Antimicrobial Resistance in Spain
 Predictive modeling for migraine onset using clinical and lifestyle variables.  
-👉 <a href="https://github.com/PatriCT240/antimicrobial-resistance-spain/blob/main/index.md">View project website</a><br>
+👉 <a href="[https://patrict240.github.io/antimicrobial-resistance-spain/">View project website</a><br>
 👉 <a href="https://github.com/PatriCT240/antimicrobial-resistance-spain">GitHub repository</a>
 
 </div>
@@ -49,7 +49,7 @@ Predictive modeling for migraine onset using clinical and lifestyle variables.
 ### 🧠 Alzheimer’s Disease — Brain Morphology & Mental Health  
 Multivariate analysis of brain volumes, symptom severity, daily functioning and diagnosis in Alzheimer’s disease.
 
-👉 <a href="https://github.com/PatriCT240/alzheimer_brain_morphology_mental_health/blob/main/index.md">View project website</a><br>
+👉 <a href="https://patrict240.github.io/alzheimer_brain_morphology_mental_health/">View project website</a><br>
 👉 <a href="https://github.com/PatriCT240/alzheimer_brain_morphology_mental_health">GitHub repository</a>
 
 </div>

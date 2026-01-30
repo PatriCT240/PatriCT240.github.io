@@ -28,10 +28,10 @@ My work focuses on building **clinically meaningful, transparent and reproducibl
 
 <div style="border:1px solid #d9e2ec; border-radius:8px; padding:16px; margin-bottom:20px; background:#f7f9fc;">
 
-### 🧬 Renal Lithiasis Risk Prediction  
+### 🧬 Kidney Stone Risk Prediction
 Machine learning model for early risk stratification of kidney stone disease.  
-👉 <a href="https://patrict240.github.io/renal_litiasis_risk/">View project website</a><br>
-👉 <a href="https://github.com/PatriCT240/renal_litiasis_risk">GitHub repository</a>
+👉 <a href="https://patrict240.github.io/kidney_stone_risk/">View project website</a><br>
+👉 <a href="https://github.com/PatriCT240/kidney_stone_risk">GitHub repository</a>
 
 </div>
 

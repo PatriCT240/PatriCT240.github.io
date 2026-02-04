@@ -55,9 +55,13 @@ Predictive modeling for migraine onset using clinical and lifestyle variables.
 </div>
 
 ---
+<div style="border:1px solid #d9e2ec; border-radius:8px; padding:16px; margin-bottom:20px; background:#f7f9fc;">
 
-### 📊 Additional Projects  
-More clinical data science projects will be added shortly.
+### 📊 Academic Projects  
+Academic projects written in Spanish
+👉 <a href="https://github.com/PatriCT240/Academic-projects-Spainish-">GitHub repository</a>
+
+</div>
 
 ---
 

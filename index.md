@@ -39,7 +39,6 @@ Machine learning model for early risk stratification of kidney stone disease.
 
 ### 🧠 Alzheimer’s Disease — Brain Morphology & Mental Health  
 Multivariate analysis of brain volumes, symptom severity, daily functioning and diagnosis in Alzheimer’s disease.
-
 👉 <a href="https://patrict240.github.io/alzheimer_brain_morphology_mental_health/">View project website</a><br>
 👉 <a href="https://github.com/PatriCT240/alzheimer_brain_morphology_mental_health">GitHub repository</a>
 
@@ -58,7 +57,7 @@ Predictive modeling for migraine onset using clinical and lifestyle variables.
 <div style="border:1px solid #d9e2ec; border-radius:8px; padding:16px; margin-bottom:20px; background:#f7f9fc;">
 
 ### 📊 Academic Projects  
-Academic projects written in Spanish.
+Academic projects written in Spanish.<br>
 👉 <a href="https://github.com/PatriCT240/Academic-projects-Spainish-">GitHub repository</a>
 
 </div>

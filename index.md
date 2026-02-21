@@ -30,8 +30,8 @@ My work focuses on building **clinically meaningful, transparent and reproducibl
 
 ### ❤️ Cardiovascular Risk Prediction  
 End‑to‑end machine learning pipeline for cardiovascular disease risk prediction, including clinical cleaning, feature engineering, robust preprocessing, model training, calibration, interpretability, and reporting.<br>
-👉 <a href="https://patrict240.github.io/cardio-risk-prediction/">View project website</a><br>
-👉 <a href="https://github.com/PatriCT240/cardio-risk-prediction">GitHub repository</a>
+👉 <a href="https://patrict240.github.io/cvd-risk-prediction/">View project website</a><br>
+👉 <a href="https://github.com/PatriCT240/cvd-risk-prediction">GitHub repository</a>
 
 </div>
 

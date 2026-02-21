@@ -28,6 +28,15 @@ My work focuses on building **clinically meaningful, transparent and reproducibl
 
 <div style="border:1px solid #d9e2ec; border-radius:8px; padding:16px; margin-bottom:20px; background:#f7f9fc;">
 
+### ❤️ Cardiovascular Risk Prediction  
+End‑to‑end machine learning pipeline for cardiovascular disease risk prediction, including clinical cleaning, feature engineering, robust preprocessing, model training, calibration, interpretability, and reporting.<br>
+👉 <a href="https://patrict240.github.io/cardio-risk-prediction/">View project website</a><br>
+👉 <a href="https://github.com/PatriCT240/cardio-risk-prediction">GitHub repository</a>
+
+</div>
+
+<div style="border:1px solid #d9e2ec; border-radius:8px; padding:16px; margin-bottom:20px; background:#f7f9fc;">
+
 ### 🧬 Kidney Stone Risk Prediction
 Machine learning model for early risk stratification of kidney stone disease.  
 👉 <a href="https://patrict240.github.io/kidney_stone_risk/">View project website</a><br>

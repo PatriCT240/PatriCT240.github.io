@@ -64,7 +64,7 @@ Predictive modeling for migraine onset using clinical and lifestyle variables.
 
 <div style="border:1px solid #d9e2ec; border-radius:8px; padding:16px; margin-bottom:20px; background:#f7f9fc;">
 
-### 🧠 Migraine Risk Prediction  
+### 🧩 Migraine Risk Prediction  
 Machine‑learning framework for migraine risk assessment integrating clinical preprocessing, calibrated probability modeling, SHAP‑based insights, decision‑threshold tuning, and subgroup fairness evaluation to ensure reliable and equitable predictions.<br>
 👉 <a href="https://patrict240.github.io/migraine-risk-prediction/">View project website</a><br>
 👉 <a href="https://github.com/PatriCT240/migraine-risk-prediction">GitHub repository</a>

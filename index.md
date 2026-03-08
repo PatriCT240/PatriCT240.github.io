@@ -28,6 +28,15 @@ My work focuses on building **clinically meaningful, transparent and reproducibl
 
 <div style="border:1px solid #d9e2ec; border-radius:8px; padding:16px; margin-bottom:20px; background:#f7f9fc;">
 
+### 🧩 Migraine Risk Prediction  
+Machine‑learning framework for migraine risk assessment integrating clinical preprocessing, calibrated probability modeling, SHAP‑based insights, decision‑threshold tuning, and subgroup fairness evaluation to ensure reliable and equitable predictions.<br>
+👉 <a href="https://patrict240.github.io/migraine-risk-prediction/">View project website</a><br>
+👉 <a href="https://github.com/PatriCT240/migraine-risk-prediction">GitHub repository</a>
+
+</div>
+
+<div style="border:1px solid #d9e2ec; border-radius:8px; padding:16px; margin-bottom:20px; background:#f7f9fc;">
+
 ### ❤️ Cardiovascular Risk Prediction  
 End‑to‑end machine learning pipeline for cardiovascular disease risk prediction, including clinical cleaning, feature engineering, robust preprocessing, model training, calibration, interpretability, and reporting.<br>
 👉 <a href="https://patrict240.github.io/cvd-risk-prediction/">View project website</a><br>
@@ -38,7 +47,7 @@ End‑to‑end machine learning pipeline for cardiovascular disease risk predict
 <div style="border:1px solid #d9e2ec; border-radius:8px; padding:16px; margin-bottom:20px; background:#f7f9fc;">
 
 ### 🧬 Kidney Stone Risk Prediction
-Machine learning model for early risk stratification of kidney stone disease.  
+Machine learning pipeline for kidney stone risk prediction, featuring calibrated models, interpretability (Permutation Importance + PDPs), and a clean modular architecture for clinical decision support.<br> 
 👉 <a href="https://patrict240.github.io/kidney_stone_risk/">View project website</a><br>
 👉 <a href="https://github.com/PatriCT240/kidney_stone_risk">GitHub repository</a>
 
@@ -47,7 +56,7 @@ Machine learning model for early risk stratification of kidney stone disease.
 <div style="border:1px solid #d9e2ec; border-radius:8px; padding:16px; margin-bottom:20px; background:#f7f9fc;">
 
 ### 🧠 Alzheimer’s Disease — Brain Morphology & Mental Health  
-Multivariate analysis of brain volumes, symptom severity, daily functioning and diagnosis in Alzheimer’s disease.<br>
+Clinically grounded analysis of brain morphology, daily functioning, and symptom severity across Alzheimer's disease diagnostic groups, featuring rigorous statistical analysis, baseline predictive modeling, and a fully modular pipeline structure.<br>
 👉 <a href="https://patrict240.github.io/alzheimer_brain_morphology_mental_health/">View project website</a><br>
 👉 <a href="https://github.com/PatriCT240/alzheimer_brain_morphology_mental_health">GitHub repository</a>
 
@@ -56,18 +65,9 @@ Multivariate analysis of brain volumes, symptom severity, daily functioning and 
 <div style="border:1px solid #d9e2ec; border-radius:8px; padding:16px; margin-bottom:20px; background:#f7f9fc;">
 
 ### 🦠 Antimicrobial Resistance in Spain
-Predictive modeling for migraine onset using clinical and lifestyle variables.  
+Analysis of antimicrobial resistance (AMR) in Spain using EARS-Net data (2000–2018), exploring resistance patterns by age, gender, bacteria–antibiotic profiles, trends over time, and predictive modeling to support clinical and public health decisions.<br>
 👉 <a href="https://patrict240.github.io/antimicrobial-resistance-spain/">View project website</a><br>
 👉 <a href="https://github.com/PatriCT240/antimicrobial-resistance-spain">GitHub repository</a>
-
-</div>
-
-<div style="border:1px solid #d9e2ec; border-radius:8px; padding:16px; margin-bottom:20px; background:#f7f9fc;">
-
-### 🧩 Migraine Risk Prediction  
-Machine‑learning framework for migraine risk assessment integrating clinical preprocessing, calibrated probability modeling, SHAP‑based insights, decision‑threshold tuning, and subgroup fairness evaluation to ensure reliable and equitable predictions.<br>
-👉 <a href="https://patrict240.github.io/migraine-risk-prediction/">View project website</a><br>
-👉 <a href="https://github.com/PatriCT240/migraine-risk-prediction">GitHub repository</a>
 
 </div>
 
@@ -98,5 +98,5 @@ Machine‑learning framework for migraine risk assessment integrating clinical p
 - GitHub: https://github.com/PatriCT240  
 - [LinkedIn](https://www.linkedin.com/in/patricia-c-torrell/)
 
-_Last updated: January 2026_
+_Last updated: March 2026_
 

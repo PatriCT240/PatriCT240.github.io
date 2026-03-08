@@ -95,7 +95,6 @@ Analysis of antimicrobial resistance (AMR) in Spain using EARS-Net data (2000–
 
 ---
 ## 📬 Contact  
-- GitHub:     PatriCT240.github.io  
 - [LinkedIn](https://www.linkedin.com/in/patricia-c-torrell/)
 
 _Last updated: March 2026_
